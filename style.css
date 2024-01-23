@@ -1,7 +1,14 @@
 .nav-item :hover{
     text-decoration: underline;
     color: #6D1830;
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
 
+}
+.active{
+     margin-left: 200px; 
+   
 }
 nav{
     position: fixed;
@@ -12,8 +19,10 @@ nav{
  div.btn{
     color: white;
     background-color: #6D1830 !important ;  
-    font-size: x-large !important;
-    margin-left: 700px;
+    font-size: x-large ;
+    margin-left: 200px;
+    justify-content:center ;
+    align-items: center;
 }
 main{
     background-color: #fff9f2;
@@ -38,17 +47,6 @@ font-weight: 400;
 line-height: 28px;
 width: 590px;
 }
-button.btn1{
-font-size: 22px;
-display: flex;
-height: 58px;
-align-items: center;
-background-color: #6D1830;
-border: none;
-border-radius: 5px;
-color: white;
-padding: 2px 30px !important;
-}
 div.stars{
     margin-left: -170px !important;
 }
@@ -56,35 +54,34 @@ div.stars{
     justify-content: center;
     align-items: center;
     margin-top: -150px;
-    margin-left: 250px;
+    margin-left: 80px;
+    width: 75%;
 }
 .para7{
-    margin-left: 300px;
-    font-family: "Open Sans";
+    margin-left: 330px;
 font-size: 18px;
-font-style: normal;
 font-weight: 500;
 letter-spacing: 0.5px;
 }
 .para8{
     justify-content: center;
     align-items: center;
-    margin-left: 500px;
+    margin-left: 250px;
 }
 .hr{
-    width: 75%;
-    margin-left: 250px;
-    height: 2px;
+    width: 65%;
+    margin-left: 200px;
+    height: 1px;
     background-color: #6D1830;
 }
 .para11{
     justify-content: center;
     align-items: center;
-    margin-left: 200px;
+    margin-left: 100px;
     margin-top: 170px;
 }
 .para10{
-    margin-left: 150px;
+    margin-left: 100px;
     margin-top: 100px;
 }
 .para12{
@@ -103,33 +100,33 @@ letter-spacing: 0.5px;
     width: 600px;
 }
 .para16{
-    margin-left: 150px;
+    margin-left: 100px;
     margin-top: 120px;
 }
 .para18{ 
-    margin-left: 300px;
+    margin-left: 100px;
     margin-top: -20px;
+    width: 75%;
 }
 .para19{
-    margin-left: 150px;
+    margin-left: 100px;
     margin-top: 100px;
+    width: 75%;
 }
 .para20{
-    justify-content: center;
-    align-items: center;
-    margin-left: 200px;
-    margin-top: 270px;
-    width: 700px;
+    margin-left: 0px;
+    margin-top: 210px;
+    width: 650px;
 }
 .para21{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 400;
     font-family: Lora;
     width: 650px;
 }
 .para22{
 background-color:#fff9f2;
-height: 95vh;
+height: 80vh;
 width: 100%;
 
 }
@@ -137,21 +134,21 @@ width: 100%;
     width: 85%;
     height: 50vh;
     margin-left: 150px;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 .para24{
-    margin-top: 120px;
-    margin-left: -1300px;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: -1000px;
 }
 .para25{
-    margin-top: 280px;
-    margin-left: 250px;
+    margin-top: 140px;
+    margin-left: 150px;
 }
 .para26{
     color: var(--text-icon-on-black-bg-primary, #FFF);
-
     font-family: Lora;
-    font-size: 40px;
+    font-size: 36px;
     font-style: normal;
     font-weight: 400;
     line-height: 40px; 
@@ -159,7 +156,7 @@ width: 100%;
 .para27{
     color: var(--text-icon-on-black-bg-primary, #FFF);
 margin-top: 20px;
-font-size: 28px;
+font-size: 24px;
 font-style: normal;
 width: 400px;
 }
@@ -178,20 +175,22 @@ width: 400px;
     background-color:#fff9f2;
     height: 95vh;
     width: 100%;
-    
     }
     .para30{
-        margin-left: 470px;
-        padding-top: 100px;
-      
+        margin-left: 400px;
+        padding-top: 20px;
     }
     .para31{
-        margin-left: 350px;
+        margin-left: 300px;
         margin-top: 50px;
         width: 57%;
     }
     .para32{
-        margin-left: 350px;
+        margin-left: 230px;
+        gap: 1px;  
+    }
+    .para34{
+        width: 75%;
     }
     .para33{
         background-color: #fff9f2;
@@ -200,12 +199,11 @@ width: 400px;
     }
     .para35{
         display: flex;
-        gap: 50px;
         width: 57%;
         height: auto;
         border: solid #6D1830;
         border-radius: 20px;
-        margin-left: 350px;
+        margin-left: 270px;
         background-color: white;
     }
     .para36{
@@ -214,22 +212,21 @@ width: 400px;
         height: auto;
         padding-top: 30px;
     }.para37{
-        padding: 120px 70px;
+        padding: 120px 20px;
     }
     .para38{
-        margin-left: 10px;
       padding-top: 20px;
     }
     .para39{
        margin-top: -657px;
     }
     .para40{
-        height: 77vh;
+        height: 63vh;
         width: 100%;
-        
     }
     .para41{
-        margin-left: 00px;
+        margin-top: 260px;
+        width: 60%;
     }
     .para42{
        background-color: #fff9f2;
@@ -237,8 +234,8 @@ width: 400px;
     }
     .para45{
         width: 30%;
-        margin-top: 250px;
-        margin-left: 250px;
+        margin-top: 320px;
+        margin-left: 100px;
     }
     .para43{
      color: var(--text-icon-on-black-bg-primary, #FFF);
@@ -252,7 +249,6 @@ width: 400px;
     }
     .para44{
         color: var(--text-icon-on-black-bg-primary, #FFF);
-
         font-family: Lora;
         font-size: 24px;
         font-style: normal;
@@ -261,15 +257,22 @@ width: 400px;
     .para49{
         color: #000;
         font-family: Lora;
-        font-size: 24px;
+        font-size: 20px;
         font-style: normal;
         font-weight: 400;
         width: 500px;
     }
     .para50{
-        margin-left: 300px;
+        margin-left: 100px;
         margin-top: 200px;
-        gap: 150px;
+        gap: 10px;
+    }
+    .para51{
+        width: 75%;
+    }
+    .para52{
+        width: 75%;
+        margin-top: 20px;
     }
     .para53{
         background-color: #fff9f2;
@@ -280,17 +283,28 @@ width: 400px;
     }
     .para54{
         padding: 60px 1px;
-        margin-left: 630px;
+        margin-left: 350px;
     }
     .para55{
+        width: 100%;
         margin-left: 100px;
-       
+    }
+    .boss{
+        width: 100%;
+    }
+    .boss1{
+        width: 100%;
+        margin-left: -20px;
+    }
+    .boss2{
+        width: 100%;
+        margin-left: -40px;
     }
     .para56{
         background-color: #6D1830;
         width: 100%;
         height: 30vh;
-        margin-top: 200px;
+        padding-top: 50px;
     }
     .para57{
         color: var(--text-icon-on-black-bg-primary, #FFF);
@@ -306,27 +320,31 @@ width: 400px;
     }
     .para59{
         margin-top: 120px;
-        margin-left: 300px;
+        margin-left: 200px;
         width: 300px;
         height: 50px;
         border-radius: 8px;
     }
     .para60{
         margin-top: 122px;
-        margin-left: 30px;
+        margin-left: 10px;
     }
     .para61{
-        margin-left: 200px;
+        /* margin-left: 200px; */
+    }
+    .para62{
+        margin-top: -100px;
+        margin-left: 70px;
     }
     .para63{
         margin-top: 100px;
-        margin-left: 200px;
+        margin-left: 70px;
     }
     .para64{
-        margin-left: 650px;
+        margin-left: 500px;
     }
     .para65{
-        margin-left: 900px;
+        margin-left: 700px;
     }
      
 
