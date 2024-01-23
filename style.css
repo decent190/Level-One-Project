@@ -380,7 +380,7 @@ width: 400px;
         width: 300px;
         font-weight: 600;
         font-family: Lora;
-        margin-left:50px;
+        margin-left:20px;
         margin-top: 100px;
     
     }
@@ -390,7 +390,7 @@ width: 400px;
         font-weight: 400;
         line-height: 28px;
         width: 300px;
-        margin-left: 70px;
+        margin-left: 30px;
         }
         button.btn1{
             font-size: 16px;
@@ -404,11 +404,11 @@ width: 400px;
             .stars{
                
                 margin-top: 30px;
-                margin-left: -235px;
+                margin-left: -255px;
                 
             }
             .down{
-                margin-left: 120px;
+                margin-left: 80px;
             }
             .para3{
                
@@ -420,7 +420,7 @@ width: 400px;
     
             }
             .para8{
-              margin-top: 20px;
+        margin-top: 20px;
                 margin-left: -160px;
                 padding-left: 40px;
             } 
@@ -432,7 +432,7 @@ width: 400px;
             letter-spacing: 0.5px;
             }  
             .para9{
-                width: 70%;
+                width: 65%;
                 margin-left: 150px;
             } 
             .hr{
@@ -446,7 +446,7 @@ width: 400px;
                 display: flex;
                 flex-direction: column;
                 width: 100%;
-                padding-left: 40px;
+                padding-left: 10px;
             }
             .para10{
                 margin-left: 10px;
@@ -532,13 +532,13 @@ width: 400px;
                 }
                 .para24{
                     margin-top: 300px;
-                    margin-left: -430px;
+                    margin-left: -350px;
                     width: 90%;
                     height: 65vh;
                 }
                 .para25{
                     margin-top:50px;
-                    margin-left: -200px;
+                    margin-left: -190px;
                     width: 80%;
                     
                 }
@@ -570,15 +570,15 @@ width: 400px;
                 .para29{
                     margin-top: -50px;
                     height: 2%;
-                    width: 481px;
+                    width: 100%;
                   
 
                  }
                  .para30{
-                    font-size: 32px;
-                    margin-left: 25px;
+                    font-size: 30px;
+                    margin-left: 5px;
                     margin-top: 200px;
-                    width: 90%;
+                    width: 95%;
                     padding-left: 40px;
 
                     font-weight: bold;
@@ -600,7 +600,7 @@ width: 400px;
                         
                     }
                     .para33{
-                        width: 481px;
+                        width: 100%;
                         height: auto;
                         padding-top: 0px;
                     }
@@ -619,17 +619,17 @@ width: 400px;
                         margin-top: -90px;
                     }
                     .para36{
-                        width: 481px;
+                        width: 100%;
                     }
                     .para42{
                 
                         display: flex;
                         flex-direction: column;
-                        width: 481px;
+                        width: 100%;
                         height: 80vh;
                         }
                         .para40{
-                            width: 481px;
+                            width: 98%;
                             height: 1000px;
                             margin-left: 1px;
                             margin-top: -1px;
@@ -641,9 +641,9 @@ width: 400px;
                             height: 65vh;
                         }
                         .para41{
-                            margin-top:-2270px;
+                            margin-top:-2120px;
                             margin-left: -15px;
-                            width: 430px;
+                            width: 95%;
                             height: 60vh; 
                         }
                         .para43{
@@ -664,7 +664,7 @@ width: 400px;
                         color: white;
                         }
                         .para45{
-                             margin-top: -800px;
+                             margin-top: -700px;
                             height: 58px;
                             /* padding: 20px 38px; */
                             width: 100%;
@@ -682,12 +682,12 @@ width: 400px;
                                 flex-direction: column;
                                 width: 100%;
                                 margin-top: 520px;
-                                margin-left: 50px;
+                                margin-left: 10px;
                             }
                             .para48{
                                 font-size: 32px;
                                 margin-left: 20px;
-                                margin-top: 170px;
+                                margin-top: 30px;
                             }
                             .para49{
                                 width: 87%;
@@ -695,53 +695,66 @@ width: 400px;
                                 margin-left: 20px;
                             }
                             .para51{
-                                width: 100%;
+                                width: 95%;
                                 height: 45vh;
-                                margin-left: 20px;
+                                margin-left: 1px;
                             }
                             .para52{
-                                width: 100%;
-                                margin-left: 20px;
+                                width: 92%;
+                                margin-left: 1px;
                             }
                             .para53{
                                  display: flex;
                                 flex-direction: column; 
                                 height: auto;
-                                width: 481px;
-
+                                width: 100%;
+                                margin-top: 50px;
+                            }
+                            .boss1{
+                                margin-left: 7px;
+                            }
+                            .boss2{
+                                margin-left: 12px;
                             }
                             .para55{
                                 display: flex;
                                 flex-direction: column;
-                                margin-left: 100px;
+                                margin-left: 30px;
                                 width:100% ;
                                 gap: 20px;
                             }
                             .para54{
-                                margin-left: 70px;
+                               
+                                margin-left: 20px;
                                 font-size: 35px;
                             }
                             .para56{
                                 margin-left: 1px;
-                                width: 481px;
+                                width: 100%;
                                 height: auto;
-                                margin-top:50px ;
+                                margin-top:px ;
                             }
                             .para62{
                                 display: flex;
                                 flex-direction: column;
                                 gap: 20px;
-                                margin-left: -150px;
+                                margin-left: 10px;
+                                width: 95%;
                             }
                             .para57{
-                                width: 100%;
+                                width: 95%;
+                                margin-left: 20px;
+                                font-size: 25px;
+                            }
+                            .para58{
+                                margin-left: 20px;
                             }
                             .para59{
                                 margin-top: -200px;
-                                margin-left: 200px;
+                                margin-left: 10px;
                             }
                             .para60{
-                                margin-left: 200px;
+                                margin-left: 10px;
                                 margin-top: -1px;
                                 padding-bottom: 30px;
                             }
@@ -756,6 +769,7 @@ width: 400px;
                             .para67{
                                 display: flex;
                                 flex-direction: column;
+                                width: 98%;
                             }
                             .para64{
                                 margin-left: 20px;
