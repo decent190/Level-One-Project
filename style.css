@@ -355,24 +355,30 @@ width: 400px;
         background-color: #fff9f2;
         display: flex;
         flex-direction: column;
-        width: 100%;
-    
+        width: 600px;
+        background-size: cover;
+        background-position-x: center;
+    }
+    style body{
+        overflow-x: hidden;
     }
     div.btn{
         margin-left:    10px;
     }
 
     .nav{
-        width: 481px;
+        width: 100%;
         position: fixed;
+        overflow-x: hidden;
+        
     }
     .para4{
         background-color: #fff9f2;
         display: flex;
         flex-direction: column;
-        margin-left: 20px;
+        padding-left: 100px;
         margin-top: 40px;
-        width: 10%;
+        width: 100%;
         
     }
     .para{
@@ -421,15 +427,15 @@ width: 400px;
             }
             .para8{
         margin-top: 20px;
-                margin-left: -160px;
+                margin-left: -10px;
                 padding-left: 40px;
+                width: 500px;
             } 
             .para7{
             margin-left: 250px;
             font-size: 20px;
             font-style: normal;
             font-weight: 500;
-            letter-spacing: 0.5px;
             }  
             .para9{
                 width: 65%;
@@ -437,16 +443,17 @@ width: 400px;
             } 
             .hr{
                 width: 80%;
-                margin-left: 40px;
+                margin-left: 200px;
                 height: 1px;
                 margin-top: 10px;
-                padding-left: 40px;
+
             }
             .para13{
                 display: flex;
                 flex-direction: column;
-                width: 100%;
+                width: 500px;
                 padding-left: 10px;
+                margin-left: 100px;
             }
             .para10{
                 margin-left: 10px;
@@ -466,7 +473,7 @@ width: 400px;
                 display: flex;
                 flex-direction: column;
                 width: 100%;
-                margin-left: 10px;
+                margin-left: 100px;
             }
             .para16{
                 margin-left: 30px;
@@ -521,25 +528,28 @@ width: 400px;
                 flex-direction: column;
                 margin-top: 570px;
                 height: 80vh;
+                width: 500px;
+                margin-left: 100px;
                 
                 }
                 .para23{
-                    width: 98%;
+                    width: 600px;
                     height: 700px;
-                    margin-left: 1px;
+                    margin-left: -50px;
                     margin-top: -1px;
-                    
+                    background-size: cover;
+                    background-position-x: center;
                 }
                 .para24{
                     margin-top: 300px;
-                    margin-left: -350px;
+                    margin-left: -470px;
                     width: 90%;
                     height: 65vh;
                 }
                 .para25{
                     margin-top:50px;
-                    margin-left: -190px;
-                    width: 80%;
+                    margin-left: -210px;
+                    width: 90%;
                     
                 }
                 .para26{
@@ -570,8 +580,11 @@ width: 400px;
                 .para29{
                     margin-top: -50px;
                     height: 2%;
-                    width: 100%;
-                  
+                    width: 600px;
+                    margin-left: 50px;
+                    width: 600px;
+                  background-size: cover;
+                  background-position-x: center;
 
                  }
                  .para30{
@@ -600,9 +613,10 @@ width: 400px;
                         
                     }
                     .para33{
-                        width: 100%;
+                        width: 600px;
                         height: auto;
                         padding-top: 0px;
+                        margin-left: 10%;
                     }
                     .para34{
                         width: 90%;
@@ -619,13 +633,15 @@ width: 400px;
                         margin-top: -90px;
                     }
                     .para36{
-                        width: 100%;
+                        width: 600px;
+                        margin-left: 10%;
                     }
                     .para42{
                 
                         display: flex;
                         flex-direction: column;
-                        width: 100%;
+                        width: 600px;
+                        margin-left: 10%;
                         height: 80vh;
                         }
                         .para40{
@@ -635,13 +651,13 @@ width: 400px;
                             margin-top: -1px;
                         }
                         .para39{
-                            margin-top: 300px;
+                            margin-top: 360px;
                             margin-left: 20px;
                             width: 90%;
                             height: 65vh;
                         }
                         .para41{
-                            margin-top:-2120px;
+                            margin-top:-2180px;
                             margin-left: -15px;
                             width: 95%;
                             height: 60vh; 
@@ -680,9 +696,9 @@ width: 400px;
                             .para50{
                                 display: flex;
                                 flex-direction: column;
-                                width: 100%;
+                                width: 600px;
                                 margin-top: 520px;
-                                margin-left: 10px;
+                                margin-left: 12%;
                             }
                             .para48{
                                 font-size: 32px;
@@ -707,8 +723,9 @@ width: 400px;
                                  display: flex;
                                 flex-direction: column; 
                                 height: auto;
-                                width: 100%;
+                                width: 600px;
                                 margin-top: 50px;
+                                margin-left: 10%;
                             }
                             .boss1{
                                 margin-left: 7px;
@@ -719,18 +736,18 @@ width: 400px;
                             .para55{
                                 display: flex;
                                 flex-direction: column;
-                                margin-left: 30px;
+                                margin-left: 50px;
                                 width:100% ;
                                 gap: 40px;
                             }
                             .para54{
                                
-                                margin-left: 20px;
+                                margin-left: 50px;
                                 font-size: 35px;
                             }
                             .para56{
-                                margin-left: 1px;
-                                width: 100%;
+                                margin-left: 10%;
+                                width: 600px;
                                 height: auto;
                                 margin-top:px ;
                             }
@@ -762,8 +779,8 @@ width: 400px;
                                 margin-top: 100px;
                                 display: flex;
                                 flex-direction: column;
-                                margin-left: 30px;
-                                width: 98%;
+                                margin-left: 12%;
+                                width: 550px;
 
                             }
                             .para67{
@@ -784,7 +801,7 @@ width: 400px;
                                 margin-left: -140px;
                             }
                             .para68{
-                                display: none; 
+                                ; 
                             }
                            
                             
