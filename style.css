@@ -6,10 +6,6 @@
     margin-left: 500px;
 
 }
-.active{
-     margin-left: 200px; 
-   
-}
 nav{
     position: fixed;
     z-index: 0px;
@@ -359,9 +355,13 @@ width: 400px;
         background-color: #fff9f2;
         display: flex;
         flex-direction: column;
-        width: 481px;
-        padding-left: 100px;  
+        width: 100%;
+    
     }
+    div.btn{
+        margin-left:    10px;
+    }
+
     .nav{
         width: 481px;
         position: fixed;
@@ -381,7 +381,7 @@ width: 400px;
         font-weight: 600;
         font-family: Lora;
         margin-left:50px;
-        margin-top: 60px;
+        margin-top: 100px;
     
     }
     p.para2{
@@ -404,8 +404,11 @@ width: 400px;
             .stars{
                
                 margin-top: 30px;
-                margin-left: -255px;
+                margin-left: -235px;
                 
+            }
+            .down{
+                margin-left: 120px;
             }
             .para3{
                
@@ -417,24 +420,24 @@ width: 400px;
     
             }
             .para8{
-        margin-top: 20px;
+              margin-top: 20px;
                 margin-left: -160px;
                 padding-left: 40px;
             } 
             .para7{
-            
+            margin-left: 250px;
             font-size: 20px;
             font-style: normal;
             font-weight: 500;
             letter-spacing: 0.5px;
             }  
             .para9{
-                width: 480px;
-                margin-left: 40px;
+                width: 70%;
+                margin-left: 150px;
             } 
             .hr{
                 width: 80%;
-                margin-left: 100px;
+                margin-left: 40px;
                 height: 1px;
                 margin-top: 10px;
                 padding-left: 40px;
@@ -456,14 +459,14 @@ width: 400px;
                 justify-content: center;
                 align-items: center;
                 margin-left: 40px;
-                margin-top: -860px;
+                margin-top: -820px;
                 width: 80%;
             }
             .para17{
                 display: flex;
                 flex-direction: column;
                 width: 100%;
-                padding-left: 100px;
+                margin-left: 20px;
             }
             .para16{
                 margin-left: 30px;
@@ -493,7 +496,7 @@ width: 400px;
             }
             
             .para19{
-                margin-left: 10px;
+                margin-left: 0px;
                 margin-top: 500px;
                 width: 90%;
                 justify-content: center;
@@ -521,7 +524,7 @@ width: 400px;
                 
                 }
                 .para23{
-                    width: 481px;
+                    width: 98%;
                     height: 700px;
                     margin-left: 1px;
                     margin-top: -1px;
@@ -529,13 +532,13 @@ width: 400px;
                 }
                 .para24{
                     margin-top: 300px;
-                    margin-left: -410px;
+                    margin-left: -430px;
                     width: 90%;
                     height: 65vh;
                 }
                 .para25{
                     margin-top:50px;
-                    margin-left: -130px;
+                    margin-left: -200px;
                     width: 80%;
                     
                 }
@@ -573,9 +576,9 @@ width: 400px;
                  }
                  .para30{
                     font-size: 32px;
-                    margin-left: 55px;
+                    margin-left: 25px;
                     margin-top: 200px;
-                    width: 77%;
+                    width: 90%;
                     padding-left: 40px;
 
                     font-weight: bold;
