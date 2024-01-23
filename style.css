@@ -341,7 +341,7 @@ width: 400px;
         background-color: #fff9f2;
         display: flex;
         flex-direction: column;
-        width: 600px;
+        width: 481px;
         padding-left: 100px;  
     }
     .nav{
@@ -401,7 +401,7 @@ width: 400px;
             .para8{
         margin-top: 20px;
                 margin-left: -160px;
-                padding-left: 100px;
+                padding-left: 40px;
             } 
             .para7{
             
@@ -419,13 +419,13 @@ width: 400px;
                 margin-left: 100px;
                 height: 1px;
                 margin-top: 10px;
-                padding-left: 100px;
+                padding-left: 40px;
             }
             .para13{
                 display: flex;
                 flex-direction: column;
                 width: 100%;
-                padding-left: 100px;
+                padding-left: 40px;
             }
             .para10{
                 margin-left: 10px;
@@ -503,7 +503,7 @@ width: 400px;
                 
                 }
                 .para23{
-                    width: 600px;
+                    width: 481px;
                     height: 700px;
                     margin-left: 1px;
                     margin-top: -1px;
@@ -549,7 +549,7 @@ width: 400px;
                 .para29{
                     margin-top: -50px;
                     height: 2%;
-                    width: 600px;
+                    width: 481px;
                   
 
                  }
@@ -579,7 +579,7 @@ width: 400px;
                         
                     }
                     .para33{
-                        width: 600px;
+                        width: 481px;
                         height: auto;
                         padding-top: 0px;
                     }
@@ -598,17 +598,17 @@ width: 400px;
                         margin-top: -90px;
                     }
                     .para36{
-                        width: 600px;
+                        width: 481px;
                     }
                     .para42{
                 
                         display: flex;
                         flex-direction: column;
-                        width: 600px;
+                        width: 481px;
                         height: 80vh;
                         }
                         .para40{
-                            width: 600px;
+                            width: 481px;
                             height: 1000px;
                             margin-left: 1px;
                             margin-top: -1px;
@@ -686,7 +686,7 @@ width: 400px;
                                  display: flex;
                                 flex-direction: column; 
                                 height: auto;
-                                width: 600px;
+                                width: 481px;
 
                             }
                             .para55{
