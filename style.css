@@ -34,6 +34,17 @@ background-color: #fff9f2;
 margin-left: auto;
 margin-right: auto;
 }
+#hero4{
+background-color: #14394c;
+margin-left: auto;
+margin-right: auto;
+}
+#hero3{
+background-color: #fff9f2;
+margin-left: 0px;
+margin-right: 0px;
+width: 100%;
+}
 .superhero{
     border-top: 2px solid grey;
     padding-top: 40px;
@@ -46,17 +57,80 @@ width: 95%;
 justify-content: center;
 align-items: center;
 }
+button{
+    background-color: #6D1830;
+    color: white;
+    font-size: 14px !important;
+    border: none;
+    padding: 14px 18px;
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+}
+.Subscribe{
+    background-color: #fff9f2 !important;
+    color: #6D1830;
+    font-size: 14px !important;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+}
+.data{
+border: 1px solid brown;
+border-radius: 6px;
+width: auto;
+height: auto;
+}
+#hero5{
+    background-color: #6D1830;
+    
+}
 
 
 
 
 
-@media screen and (max-width:px){
+
+@media screen and (max-width: 767px){
    .hero3{
     margin-left: -100px;
    }
    #cont{
-    margin-top: 450px;
+    margin-top: 20px;
+   }
+   .container .experience{
+       flex-direction: row-reverse;
+    flex-wrap: wrap-reverse;
+   }
+   .power{
+    position: relative;
+     bottom: 70px;
+   }
+    .privacy{
+    margin-top:50px ;
+   }
+    div .get1{
+    margin-top: -100px;
+   }
+   .picture{
+    margin-left: -70px;
+    width: 25%;
+   }
+   .picture2{
+    width: 15%;
+    margin-left: -100px;
+   }
+   .picture3{
+    width: 35%;
+   }
+   .spanabout{
+    margin-left: -20px;
+    width: 100% !important;
    }
 
+}
+@media screen and (min-width:768px) and (max-width:988px){
+  div .get{
+    margin-top: -70px;
+  }
 }
