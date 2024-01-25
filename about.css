@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ button{
+    background-color: #6D1830;
+    color: white;
+    font-size: 14px !important;
+    border: none;
+    padding: 14px 18px;
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+}
+header{
+    position: fixed;
+    z-index: 0px;
+    width: 100%;
+}
+#hero5{
+    background-color: #14394c;
+     
+}
+#hero{
+    background-color: #fff9f2;
+    margin-top: -50px;
+}
+#hero2{
+    background-color: #fff9f2;
+    padding-bottom: 60px;
+}
+ div.accordion-item  {
+    background-color: #fff9f2;
+}
+#hero4{
+    background-color: #14394c;
+    margin-left: auto;
+    margin-right: auto;
+
+    }
+    #hero3{
+        background-color: #fff9f2;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+     }
+    .data{
+            border: 1px solid grey;
+            border-radius: 6px;
+            width: auto;
+            height: auto;
+      }
+      .Subscribe{
+        background-color: #fff9f2 !important;
+        color: #6D1830;
+        font-size: 14px !important;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 8px !important;
+        font-weight: 600 !important;
+    }
+    #hero5{
+        background-color: #6D1830;
+    }
+ 
+
+
+
+
+@media screen and (max-width:767px){
+    .picture2{
+        width: 15%;
+        margin-left: -100px;
+       }
+       .picture4{
+        display: none;
+    }
+    div.get{
+        margin-top: -120px;
+    }
+    button.butt{
+        margin-left: -100px;
+       }
+       h2.accordion-header  {
+        background-color: #fff9f2;
+        margin-left: -200px;
+    }
+     div.get1{
+        margin-top: -100px;
+    }
+    .picture3{
+        width: 35%;
+    }
+    .picture{
+        margin-left: -70px;
+        width: 25%;
+       }
+      
+
+}

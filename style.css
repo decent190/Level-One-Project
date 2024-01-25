@@ -127,8 +127,13 @@ height: auto;
     margin-left: -20px;
     width: 100% !important;
    }
+   button.butt{
+    margin-left: -100px;
+   }
 
 }
+
+
 @media screen and (min-width:768px) and (max-width:988px){
   div .get{
     margin-top: -70px;
