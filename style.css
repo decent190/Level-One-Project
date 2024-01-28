@@ -6,6 +6,9 @@
 #hero{
     background-color:#fff9f2 ;
 }
+#hero9{
+    background-color:#fff9f2 ;
+}
 header{
     position: fixed;
     z-index: 1;
@@ -76,7 +79,7 @@ button{
     font-weight: 600 !important;
 }
 .data{
-border: 1px solid brown;
+border: 1px solid gray;
 border-radius: 6px;
 width: auto;
 height: auto;
@@ -84,6 +87,14 @@ height: auto;
 #hero5{
     background-color: #6D1830;
     
+}
+.background{
+    background-image: url(img/Rectangle\ 55.png);
+    height: 60vh;
+    margin-top: -100px;
+}
+.background2{
+    margin-top: -150px;
 }
 
 
@@ -130,6 +141,24 @@ height: auto;
    button.butt{
     margin-left: -100px;
    }
+   div .get2{
+    padding-left: 40px;
+   }
+   div .background{
+    flex-direction: row-reverse;
+ flex-wrap: wrap-reverse;
+ height: auto;
+}
+ div .Yes{
+    margin-top: 50px;
+}
+#hero9{
+  margin-top: -160px;
+}
+.superhero{
+    background-color: #fff9f2;
+    padding-bottom: 50px;
+}
 
 }
 

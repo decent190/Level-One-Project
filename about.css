@@ -28,6 +28,11 @@ header{
 #hero2{
     background-color: #fff9f2;
     padding-bottom: 60px;
+    
+}
+div .hero10{
+    background-image: url(img/Rectangle\ 55.png);
+    height: 60vh;
 }
  div.accordion-item  {
     background-color: #fff9f2;
@@ -62,6 +67,9 @@ header{
     #hero6{
         background-color: #6D1830;
     }
+    #hero9{
+        background-color: #fff9f2;
+    }
  
 
 
@@ -95,6 +103,37 @@ header{
         margin-left: -70px;
         width: 25%;
        }
+       div .hero10{
+        flex-direction: row-reverse;
+     flex-wrap: wrap-reverse;
+     height: auto;
+    }
+    #hero2{
+    }
+    div .get2{
+        padding-left: 40px;
+        position: relative;
+        margin-top: -90px;
+       }
+       div .Yes{
+        padding-left: 50px;
+        padding-top: 20px;
+       }
+        #hero9{
+        margin-top: -200px;
+       }
+       div .Frequently{
+        background-color: #fff9f2;
+       }
       
 
 }
+
+
+
+
+@media screen and (min-width:768px) and (max-width:988px){
+    div .Yes{
+      margin-top: 100px;
+    }
+  }
