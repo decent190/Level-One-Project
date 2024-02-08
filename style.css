@@ -142,7 +142,10 @@ height: auto;
     margin-left: -100px;
    }
    div .get2{
-    padding-left: 40px;
+    padding-left: 10px;
+   }
+  img .fone{
+    margin-top: 60px !important;
    }
    div .background{
     flex-direction: row-reverse;
@@ -158,6 +161,13 @@ height: auto;
 .superhero{
     background-color: #fff9f2;
     padding-bottom: 50px;
+    margin-top: -80px;
+    
+}
+.down1{
+    margin-left: 90px;
+    display: flex;
+    flex-direction: column;
 }
 
 }
